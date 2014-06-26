@@ -53,24 +53,21 @@ People who want to contribute to this project are totally welcome. You can find 
 
 
 
-###Coder (for Raspberry Pi)
+###Zenoss
 
 <p>
-[Coder] (https://googlecreativelab.github.io/coder/) is a o
+Zenoss was founded in 2005 to address the challenges of operating and assuring large-scale IT services. The key principles that drove their initial offerings are even more relevant today as organizations drive towards the vision of automated operations and hybrid cloud infrastructure.
 </p>
 
 <p>
-The Coder is itst.  
+Features include automatic discovery, inventory via CMDB, availability monitoring, easy-to-read performance graphs, sophisticated alerting, an easy-to-use web portal, and much, much more.
 </p>
 
 <p>
-The Coder team highly encourages help from the user community and directs users to its [GitHub repository](https://www.github.com/googlecreativelab/coder/). For new users, there is a [Coder Projects](https://googlecreativelab.github.io/coder-projects/) page to help out!     
+Only the Zenoss core can be downloaded at the official website, and only some partial modules can be found at github. Most of them use Python as language, so it has excellent readability and maintainability. The documentation is partial and not very detailed.
 </p>
 
 <p>
-The advertised chann  
+It seems Zenoss becomes much more commercialized than it was at the beginning. They set many paid positions but not have much care of public participation. So the possibility of taking an overview of the source code of it and getting involved in the development of it is small.
 </p>
 
-<p>
-The 
-</p>
