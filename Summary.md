@@ -12,7 +12,7 @@ Through searching “network monitoring projects” on google and looking at the
 </p>
 
 <p>
-Taking a look at the website (http://www.nagios.org/about/overview/), I find the functions of Nagios can be breifly concluded as [Monitoring] IT staff configure Nagios to monitor critical IT infrastructure components, including system metrics, network protocols, applications, services, servers, and network infrastructure. [Alerting] Nagios sends alerts when critical infrastructure components fail and recover, providing administrators with notice of important events. Alerts can be delivered via email, SMS, or custom script. [Response] IT staff can acknowledge alerts and begin resolving outages and investigating security alerts immediately. Alerts can be escalated to different groups if alerts are not acknowledged in a timely manner. [Reporting] Reports provide a historical record of outages, events, notifications, and alert response for later review. Availability reports help ensure your SLAs are being met. [Maintenance] Scheduled downtime prevents alerts during scheduled maintenance and upgrade windows. [Planning] Trending and capacity planning graphs and reports allow you to identify necessary infrastructure upgrades before failures occur.
+Taking a look at the website (http://www.nagios.org/about/overview/), I find the functions of Nagios can be briefly concluded as [Monitoring] IT staff configure Nagios to monitor critical IT infrastructure components, including system metrics, network protocols, applications, services, servers, and network infrastructure. [Alerting] Nagios sends alerts when critical infrastructure components fail and recover, providing administrators with notice of important events. Alerts can be delivered via email, SMS, or custom script. [Response] IT staff can acknowledge alerts and begin resolving outages and investigating security alerts immediately. Alerts can be escalated to different groups if alerts are not acknowledged in a timely manner. [Reporting] Reports provide a historical record of outages, events, notifications, and alert response for later review. Availability reports help ensure your SLAs are being met. [Maintenance] Scheduled downtime prevents alerts during scheduled maintenance and upgrade windows. [Planning] Trending and capacity planning graphs and reports allow you to identify necessary infrastructure upgrades before failures occur.
 </p>
 
 <p>
@@ -43,7 +43,7 @@ You can get open source code of OpenNMS on its website or find it on github (htt
 </p>
 
 <p>
-The main language of OpenNMS is Java. After checking a random file, I confirm it has excellent readability and maintainability. It has very entire and complete documentation, from every aspects to let readers know about it. Most of its documentation is of online form (http://www.opennms.org/wiki/Docu-overview). There is also a haracover book of German version.
+The main language of OpenNMS is Java. After checking a random file, I confirm it has excellent readability and maintainability. It has very entire and complete documentation, from every aspects to let readers know about it. Most of its documentation is of online form (http://www.opennms.org/wiki/Docu-overview). There is also a hardcover book of German version.
 </p>
 
 <p>
