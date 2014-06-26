@@ -20,7 +20,7 @@ The newest version is Nagios XI, which is not free and can be bought online. I d
 </p>
 
 <p>
-The language of this version on Github is Ruby, while that of the official version is C. In analyzing the files, the code of Nagios (5.3.4) has excellent readability and maintainability. It has very entire and complete documentation, from almost every aspects to let readers know about them. Most of their documentation are of online form. (http://www.nagios.org/documentation)
+The language of this version on Github is Ruby, while that of the official version is C. In analyzing the files, the code of Nagios (5.3.4) has excellent readability and maintainability. It has very entire and complete documentation, from almost every aspects to let readers know about it. Most of its documentation is of online form. (http://www.nagios.org/documentation)
 </p>
 
 <p>
@@ -28,21 +28,26 @@ There are many links on the website to tell people they are welcome to join in t
 </p>
 <br>
 
-###Badges 
+###OpenNMS
 
 <p>
-After wack. </p>
-
-<p>
-The project website, [www.openbadges.org] (http://www.openbadges.org/),
+OpenNMS is the world’s first enterprise grade network management application platform developed under the open source model. It started in July of 1999, designed to meet the demand of enterprises and carries, has a highly customizable management solution and it is 100% FOSS.
 </p>
 
 <p>
-p
+After reading the overview of the functions, I conclude them as [Discovery] Set OpenNMS at the network and it will discover the network services running. [Notification] OpenNMS can both send and receive events, work as main repository for the network event stream and generate tickets when critical events happen. [Service] Service Level Agreements (SLAs) work on management effort and perform transactions from many kinds of monitoring events. [Measurement] SNMP and JMX protocols are the main data collectors in OpenNMS. All data stored can be tested by thresholds and be graphed.
 </p>
 
 <p>
-, researc
+You can get open source code of OpenNMS on its website or find it on github (https://github.com/OpenNMS/opennms). The stable version is 1.12, the unstable version is 1.13. It seems more people are contributing their efforts on 1.13 to make it stable to work.
+</p>
+
+<p>
+The main language of OpenNMS is Java. After checking a random file, I confirm it has excellent readability and maintainability. It has very entire and complete documentation, from every aspects to let readers know about it. Most of its documentation is of online form (http://www.opennms.org/wiki/Docu-overview). There is also a haracover book of German version.
+</p>
+
+<p>
+People who want to contribute to this project are totally welcome. You can find almost every kind of support on the wiki page. Things are listed as details there.
 </p>
 <br>
 
